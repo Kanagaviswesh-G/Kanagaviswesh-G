@@ -1,73 +1,87 @@
-![Kanagaviswesh G]("C:\Users\viswe\Downloads\IMG_20250127_112351.jpg")
+# Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Kanagaviswesh G**
 
-# Kanagaviswesh G  
-**B. Tech Artificial Intelligence and Data Science**  
-**Karpagam College of Engineering**  
-
-📧 **Email**: kanagaviswesh.g2004@gmail.com  
-📞 **Phone**: +91 9344372201  
-🔗 **Links**: [Leetcode](https://leetcode.com/u/user1253hX/) | [GitHub](https://github.com/Kanagaviswesh-G) | [LinkedIn](https://www.linkedin.com/in/kanagaviswesh-g-0945b9326/)  
+🎓 **B. Tech in Artificial Intelligence and Data Science**  
+📍 **Karpagam College of Engineering, Coimbatore**  
+📅 **Graduating in 2026**  
 
 ---
 
-## 📚 **Education**
+## 🌟 About Me  
 
-| Examination   | University      | Institute                     | Year | CGPA (%) |
-|---------------|-----------------|-------------------------------|------|----------|
-| Graduation    | Anna University | Karpagam College of Engineering | 2026 | 6.44     |
-| HSC           | State Board     | Rotary Club Matric Hr Sec School | 2022 | 68%      |
-| SSLC          | State Board     | Rotary Club Matric Hr Sec School | 2020 | 93%      |
+I am an **AI and Data Science enthusiast** with a passion for developing innovative solutions using machine learning, data analysis, and optimization techniques. I enjoy solving complex problems and contributing to impactful projects that bridge the gap between technology and real-world applications.
 
 ---
 
-## 💻 **Technical Skills**
+## 🔧 Skills and Tools  
 
 - **Languages**: Python, Java  
-- **Frameworks**: Pandas, Numpy  
-- **Tools**: Git, Docker, MongoDB, Tableau, Figma  
+- **Frameworks**: Pandas, NumPy  
+- **Tools**: Git, Docker, MongoDB, Tableau  
 - **Platforms**: Jupyter Notebook, Visual Studio Code, Google Colab  
 - **Soft Skills**: Leadership, People Management  
 
 ---
 
-## 🚀 **Key Projects**
+## 🚀 Featured Projects  
 
-### Dimensionality Reduction Project *(Guided Project)*  
-*January 2025 – Present*  
-- Implemented a novel k-means clustering approach for dimensionality reduction.
-- Enhanced activity recognition model accuracy by 0.73% using a Gaussian Naive Bayes model.
-- Reduced model training time by 0.017 seconds through effective feature selection.
+### 📉 Dimensionality Reduction Project *(Guided Project)*  
+- Developed and implemented a novel **k-means clustering approach** for dimensionality reduction.  
+- Enhanced activity recognition model accuracy by 0.73% using a **Gaussian Naive Bayes model**.  
+- Reduced model training time by 0.017 seconds through effective feature selection.  
 
-### Optimization for Vehicle Routing Problem using Genetic Algorithms *(Self Project)*  
-*December 2024 – January 2025*  
-- Developed an optimized solution for the "vehicle routing problem" using a genetic algorithm.
-- Utilized the DEAP library for evolutionary computing, improving solution quality by 20%.
-- Designed a random coordinate generator simulating real-world delivery scenarios for 25 customer locations.
+### 🚚 Optimization for Vehicle Routing Problem *(Self Project)*  
+- Created an optimized solution for the **vehicle routing problem** using a **genetic algorithm**.  
+- Utilized the **DEAP library** for evolutionary computing, improving solution quality by 20%.  
+- Designed a random coordinate generator to simulate delivery scenarios with 25 unique locations.  
 
-### Customer Churn Prediction *(Self Project)*  
-*October 2024 – November 2024*  
-- Predicted customer churn using machine learning models based on usage patterns, demographics, and interactions.
-- Enabled proactive retention strategies, reducing customer attrition and saving costs.
+### 🔍 Customer Churn Prediction *(Self Project)*  
+- Predicted customer churn by analyzing usage patterns, demographics, and interactions.  
+- Built machine learning models to identify at-risk customers, enabling proactive retention strategies.  
+- Helped reduce customer attrition and save costs through personalized recommendations.  
 
 ---
 
-## 🎓 **Certifications**
+## 📜 Certifications  
 
-- Qlik Sense Business Analyst *(September 2024)*
-- Connecting to a MongoDB Database *(August 2024)*
-- MongoDB and the Document Model *(August 2024)*
-- MongoDB Atlas *(August 2024)*
-- JavaScript *(May 2024)*
-
----
-
-## 🏆 **Extra-Curricular Activities**
-
-- Solved 100+ problems on Skillrack *(2022-2024)*
-- Solved 100+ problems on Leetcode *(2023-2024)*
+- **Qlik Sense Business Analyst** *(September 2024)*  
+- **Connecting to a MongoDB Database** *(August 2024)*  
+- **MongoDB and the Document Model** *(August 2024)*  
+- **MongoDB Atlas** *(August 2024)*  
 
 ---
 
-![Your Logo Here]("C:\Users\viswe\Downloads\IMG_20250127_112351.jpg")
+## 🏆 Achievements  
 
-Feel free to connect with me or explore my repositories to learn more about my work and achievements!
+- Solved **100+ problems on Skillrack** *(2022–2024)*  
+- Solved **100+ problems on LeetCode** *(2023–2024)*  
+
+---
+
+## 📫 Let's Connect!  
+
+<p align="left">
+  <a href="mailto:kanagaviswesh.g2004@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Kanagaviswesh-G" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanagaviswesh-g-0945b9326/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/user1253hX/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanagaviswesh-G&show_icons=true&count_private=true&title_color=0078d4&text_color=ffffff&icon_color=0078d4&bg_color=0d1117&hide_border=true)  
+
+---
+
+### 🌟 Collaborate With Me  
+
+Thanks for visiting my profile! If you're interested in **AI**, **Data Science**, or solving exciting real-world challenges, let's connect and collaborate! 🚀
